@@ -1,0 +1,10 @@
+- hosts: all
+  become: True
+  gather_facts: false
+
+  roles:
+    - William-Yeh.alpine-python
+
+  tasks:
+    - name: install Nginx with default version
+      apk: name=nginx  state=present

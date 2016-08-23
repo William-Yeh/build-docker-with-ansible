@@ -1,0 +1,16 @@
+- hosts: all
+  become: True
+  tasks:
+
+    - name: add Nginx stable repository (deb)
+      apt_repository: repo='deb http://nginx.org/packages/{{ ansible_distribution|lower }}/ {{ ansible_distribution_release|lower }} nginx' state=present
+
+    - name: add Nginx stable repository (deb-src)
+      apt_repository: repo='deb-src http://nginx.org/packages/{{ ansible_distribution|lower }}/ {{ ansible_distribution_release|lower }} nginx' state=present
+
+    - name: add Nginx.org key
+      apt_key: url=http://nginx.org/keys/nginx_signing.key state=present
+
+    - name: install nginx
+      apt: name=nginx state=present update_cache=yes
+
