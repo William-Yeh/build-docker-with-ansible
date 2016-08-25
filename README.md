@@ -1,7 +1,7 @@
 Build Docker images with Ansible: A half-blood approach
 ===
 
-This repo contains slides and lab materials for my talk given at [Community Open Camp (Aug 27, 2016)](https://community-open-camp.azurewebsites.net/): “Build Docker images with Ansible: A half-blood approach” 【從 Ansible 到 Docker：橫跨新舊兩世界的軟體 build/ship 手法】.
+This repo contains slides and lab materials for my talk given at [Community Open Camp (Aug 27, 2016)](https://community-open-camp.azurewebsites.net/): “Build Docker images with Ansible: A half-blood approach” 【從 Ansible 到 Docker：混血模式】.
 
 
 ## Materials
@@ -9,8 +9,7 @@ This repo contains slides and lab materials for my talk given at [Community Open
 
 ### Slides
 
-Read online: http://bit.ly/half-blood-docker
-
+[Read online](https://www.slideshare.net/williamyeh/ansible-docker-65362893) at SlideShare.
 
 ### Working labs
 
