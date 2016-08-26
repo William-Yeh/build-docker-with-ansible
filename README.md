@@ -27,6 +27,11 @@ Case study subdirectories:
   - `lab-wrk` - Wrk
 
 
+  - `lab-boom` - Boom
+
+  - `lab-json-server` - JSON Server
+
+
 ### Video
 
 To be announced later.
