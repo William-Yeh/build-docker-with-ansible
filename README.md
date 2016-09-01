@@ -9,7 +9,21 @@ This repo contains slides and lab materials for my talk given at [Community Open
 
 ### Slides
 
-[Read online](https://www.slideshare.net/williamyeh/ansible-docker-65362893) at SlideShare.
+[Read slides online](https://www.slideshare.net/williamyeh/ansible-docker-65362893) at SlideShare.
+
+[Watch video online](https://channel9.msdn.com/Events/Community-Open-Camp/Community-Open-Camp-2016/ComOpenCamp003) at Channel 9.
+
+
+### Articles
+
+Two articles in Chinese:
+
+1. [從 Ansible 到 Docker：混血模式](http://school.soft-arch.net/blog/247026/halfblood-docker)
+
+2. [為什麼要追求極簡化的 Docker image？](http://school.soft-arch.net/blog/247272/why-minimal-docker-i
+mages)
+
+
 
 ### Working labs
 
@@ -31,10 +45,6 @@ Case study subdirectories:
 
   - `lab-json-server` - JSON Server
 
-
-### Video
-
-To be announced later.
 
 
 ## License
