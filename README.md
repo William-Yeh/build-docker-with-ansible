@@ -20,8 +20,7 @@ Two articles in Chinese:
 
 1. [從 Ansible 到 Docker：混血模式](http://school.soft-arch.net/blog/247026/halfblood-docker)
 
-2. [為什麼要追求極簡化的 Docker image？](http://school.soft-arch.net/blog/247272/why-minimal-docker-i
-mages)
+2. [為什麼要追求極簡化的 Docker image？](http://school.soft-arch.net/blog/247272/why-minimal-docker-images)
 
 
 
